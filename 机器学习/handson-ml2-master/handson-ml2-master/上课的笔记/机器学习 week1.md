@@ -51,7 +51,8 @@ model.add(tf.keras.layers.Dense(1,input_shape=(1,)))
 model.add(tf.keras.layers.Dense(1))
 model.add(tf.keras.layers.Dense(1))
 ```
+![xy的关系图](https://user-images.githubusercontent.com/109726121/187837862-96a993fe-f3cf-49ad-81cd-affa73af468a.png)
 
-![](xy的关系图.png)
 
-![](二次深度学习可视化图.png)
+![二次深度学习可视化图](https://user-images.githubusercontent.com/109726121/187837886-d641f5fb-0f77-4893-9572-fa9c0a823b04.png)
+
